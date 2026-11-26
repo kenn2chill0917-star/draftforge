@@ -352,7 +352,7 @@
     "oxfmt": "0.68.0",
     "oxlint": "1.83.0",
     "oxlint-tsgolint": "7.0.2001",
-    "rollup": "4.63.3"
+    "rollup": "4.68.8"
   },
   "dependencies": {
     "@ietf-tools/idnits": "3.3.0",
